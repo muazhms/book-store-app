@@ -1,0 +1,16 @@
+
+r	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–™²ıÿÿÿÿ8œƒÓ›×.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÂ‘ßüÿÿÿÿ8œƒÓ›×.
+o	java:S100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–™²ıÿÿÿÿ8œƒÓ›×.
+j	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¬ß8œƒÓ›×.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯ı¬ ùÿÿÿÿ8œƒÓ›×.
+p	java:S116
+"TRename this field "author_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìóµÓ8œƒÓ›×.
+j	java:S100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óô ™8œƒÓ›×.
+j	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ŞŒ¤8œƒÓ›×.
+p	java:S116"TRename this field "book_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¡è8œƒÓ›×.
+m	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ŞŒ¤8œƒÓ›×.
+X	java:S125"<This block of commented-out lines of code should be removed.(¬å’º8”…ı›×.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ú‰Ôÿÿÿÿÿ8œƒÓ›×.
+n	java:S116"RRename this field "book_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ŠÍâ8œƒÓ›×.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÂ‘ßüÿÿÿÿ8œƒÓ›×.
