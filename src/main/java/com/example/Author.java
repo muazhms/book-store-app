@@ -10,15 +10,6 @@ public class Author {
     private String contact;
     private String address;
 
-    public Author(int author_id, String author_name, int gender, LocalDate dob, String contact, String address) {
-        this.author_id = author_id;
-        this.author_name = author_name;
-        this.gender = gender;
-        this.dob = dob;
-        this.contact = contact;
-        this.address = address;
-    }
-
     public int getAuthor_id() {
         return author_id;
     }

@@ -1,9 +1,5 @@
 package com.example;
 
-import javax.naming.Context;
-import javax.naming.InitialContext;
-import javax.naming.NamingException;
-import javax.sql.DataSource;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
@@ -17,25 +13,17 @@ public class DBConnection {
 
     @SuppressWarnings("finally")
     public static Connection createNewDBconnection() {
-//        try  {
-//            Class.forName(driver_name);
-//            conn = DriverManager.getConnection(
-//                    dbhost, username, password);
-//        } catch (SQLException e) {
-//            System.out.println("Cannot create database connection");
-//            e.printStackTrace();
-//        } finally {
-//            return conn;
-//        }
-        try {
+        try  {
             if(conn == null || conn.isClosed()){
-                Context context = new InitialContext();
-                DataSource dataSource = (DataSource)context.lookup("java:comp/env/jdbc/BookStoreDB");
-                conn = dataSource.getConnection();
+                Class.forName(driver_name);
+                conn = DriverManager.getConnection(
+                        dbhost, username, password);
             }
-        } catch (NamingException | SQLException e) {
+        } catch (SQLException e) {
+            System.out.println("Cannot create database connection");
             e.printStackTrace();
+        } finally {
+            return conn;
         }
-        return conn;
     }
 }

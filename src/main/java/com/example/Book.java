@@ -9,21 +9,6 @@ public class Book {
     private int edition;
     private int author_id;
 
-//    public Book(int book_id,
-//                String book_name,
-//                String description,
-//                double price,
-//                int edition,
-//                int author_id
-//    ) {
-//        this.book_id = book_id;
-//        this.book_name = book_name;
-//        this.description = description;
-//        this.price = price;
-//        this.edition = edition;
-//        this.author_id = author_id;
-//    }
-
     public int getBook_id() {
         return book_id;
     }
