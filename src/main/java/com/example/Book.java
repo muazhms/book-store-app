@@ -1,4 +1,4 @@
-package bookStore;
+package com.example;
 
 public class Book {
 

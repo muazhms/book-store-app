@@ -1,12 +1,0 @@
-
-j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â·’É8×èå–×.
-j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óô ™8×èå–×.
-r	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õºƒ§úÿÿÿÿ8×èå–×.
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯ý¬ ùÿÿÿÿ8·ÚÒ›×.
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Î¬ùøÿÿÿÿ8ÕÍä–×.
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ž–™²ýÿÿÿÿ8×èå–×.
-p	java:S116"TRename this field "author_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìóµÓ8í§ã–×.
-o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ž–™²ýÿÿÿÿ8×èå–×.
-w	java:S116"VRename this field "author_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Ææ£úÿÿÿÿ8í§ã–×.
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Î¬ùøÿÿÿÿ8ÕÍä–×.
-o	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õºƒ§úÿÿÿÿ8×èå–×.

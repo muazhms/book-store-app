@@ -1,0 +1,9 @@
+
+d	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿—àå
+O
+java:S2696"6Make the enclosing method "static" or remove this set.(Ñ©Ìïÿÿÿÿÿ
+g
+java:S1450"SRemove the "stmt" field and declare it as a local variable in the relevant methods.(¦ÿ¨š
+d	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¬ô•
+J
+java:S2696"6Make the enclosing method "static" or remove this set.(Êë‹
