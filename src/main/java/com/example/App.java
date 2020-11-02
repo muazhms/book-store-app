@@ -63,7 +63,7 @@ public class App extends Application
                     break;
                 case "f":
                     System.out.println("Enter book details in following order. Press enter after each detail");
-                    System.out.println("Book name, description, price, edition, author id");
+                    System.out.println("Book name, description, price(double), edition(integer), author id(integer)");
                     String book_name = userInput.nextLine();
                     String description = userInput.nextLine();
                     Double price = userInput.nextDouble();

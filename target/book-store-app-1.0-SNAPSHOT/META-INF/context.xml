@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Context>
+    <Resource
+        name="jdbc/BookStoreDB"
+        auth="Container"
+        type="javax.sql.DataSource"
+        maxActive="100"
+        maxIdle="30"
+        maxWait="10000"
+        driverClassName="com.mysql.cj.jdbc.Driver"
+        url="jdbc:mysql://us-cdbr-east-02.cleardb.com/heroku_dc0b44c59eae21f"
+        username="bbb7f232662a21"
+        password="f22ddf62"
+    />
+</Context>
